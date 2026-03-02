@@ -21,4 +21,5 @@ dependencies:
       - sentence-transformers==3.4.1
       - otter-grader==6.1.6
       - huggingface_hub
+      - gradio
       - docutils<0.20
